@@ -1,3 +1,8 @@
+# Name: Ajele Oluwatobiloby john
+# Matric No: 230502009
+# course: csc 301
+# level: 300L
+
 # Node class
 class Node:
     def __init__(self, data):
